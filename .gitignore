@@ -1,0 +1,17 @@
+node_modules
+.env
+packages
+.vs
+*.dll
+*.exe
+*.pdb
+*.obj
+*.o
+*.a
+*.lib
+obj
+bin
+*.log
+*.com
+*.class
+
